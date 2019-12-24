@@ -1,0 +1,7 @@
+{
+  "name": "vdom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tugorez <tugorez@gmail.com>",
+  "license": "MIT"
+}
